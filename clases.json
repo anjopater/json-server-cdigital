@@ -2,6 +2,7 @@
     "clases": [
         {
             "id": 1,
+            "subGrupoId": 1,
             "name": "Clase 1",
             "produto": [
                 {
@@ -37,6 +38,7 @@
         {
             "id": 2,
             "name": "Clase 2",
+            "subGrupoId": 1,
             "produto": [
                 {
                     "id": 1,
