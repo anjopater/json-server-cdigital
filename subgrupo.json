@@ -1,77 +1,109 @@
 {
-	{
-      id: 1, name: "Big King Xl", ingredient: "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde", price: "A Partir de R$ 29.90", imageUrl: "../../../assets/icon/burger.png", active: true
+  "subgrupos": [
+    {
+      "id": 1,
+      "name": "Big King Xl",
+      "ingredient": "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde",
+      "price": "A Partir de R$ 29.90",
+      "imageUrl": "../../../assets/icon/burger.png"
     },
     {
-      id: 2, name: "Big King Xl", ingredient: "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde", price: "A Partir de R$ 29.90", imageUrl: "../../../assets/icon/burger.png", active: false
+      "id": 2,
+      "name": "Big King Xl",
+      "ingredient": "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde",
+      "price": "A Partir de R$ 29.90",
+      "imageUrl": "../../../assets/icon/burger.png"
     },
     {
-      id: 3, name: "Big King Xl", ingredient: "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde", price: "A Partir de R$ 29.90", imageUrl: "../../../assets/icon/burger.png", active: false
+      "id": 3,
+      "name": "Big King Xl",
+      "ingredient": "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde",
+      "price": "A Partir de R$ 29.90",
+      "imageUrl": "../../../assets/icon/burger.png"
     },
     {
-      id: 4, name: "Big King Xl", ingredient: "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde", price: "A Partir de R$ 29.90", imageUrl: "../../../assets/icon/burger.png", active: false
+      "id": 4,
+      "name": "Big King Xl",
+      "ingredient": "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde",
+      "price": "A Partir de R$ 29.90",
+      "imageUrl": "../../../assets/icon/burger.png"
     },
     {
-      id: 5, name: "Big King Xl", ingredient: "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde", price: "A Partir de R$ 29.90", imageUrl: "../../../assets/icon/burger.png", active: false
+      "id": 5,
+      "name": "Big King Xl",
+      "ingredient": "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde",
+      "price": "A Partir de R$ 29.90",
+      "imageUrl": "../../../assets/icon/burger.png"
     },
     {
-      id: 6, name: "Big King Xl", ingredient: "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde", price: "A Partir de R$ 29.90", imageUrl: "../../../assets/icon/burger.png", active: false
+      "id": 6,
+      "name": "Big King Xl",
+      "ingredient": "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde",
+      "price": "A Partir de R$ 29.90",
+      "imageUrl": "../../../assets/icon/burger.png"
     },
     {
-      id: 7, name: "Big King Xl", ingredient: "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde", price: "A Partir de R$ 29.90", imageUrl: "../../../assets/icon/burger.png", active: false
+      "id": 7,
+      "name": "Big King Xl",
+      "ingredient": "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde",
+      "price": "A Partir de R$ 29.90",
+      "imageUrl": "../../../assets/icon/burger.png"
     },
     {
-      id: 8, name: "Big King Xl", ingredient: "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde", price: "A Partir de R$ 29.90", imageUrl: "../../../assets/icon/burger.png", active: false
+      "id": 8,
+      "name": "Big King Xl",
+      "ingredient": "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde",
+      "price": "A Partir de R$ 29.90",
+      "imageUrl": "../../../assets/icon/burger.png"
     },
     {
-      id: 9, name: "Big King Xl", ingredient: "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde", price: "A Partir de R$ 29.90", imageUrl: "../../../assets/icon/burger.png", active: false
+      "id": 9,
+      "name": "Big King Xl",
+      "ingredient": "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde",
+      "price": "A Partir de R$ 29.90",
+      "imageUrl": "../../../assets/icon/burger.png"
     },
     {
-      id: 10, name: "Big King Xl", ingredient: "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde", price: "A Partir de R$ 29.90", imageUrl: "../../../assets/icon/burger.png", active: false
+      "id": 10,
+      "name": "Big King Xl",
+      "ingredient": "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde",
+      "price": "A Partir de R$ 29.90",
+      "imageUrl": "../../../assets/icon/burger.png"
     },
     {
-      id: 11, name: "Big King Xl", ingredient: "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde", price: "A Partir de R$ 29.90", imageUrl: "../../../assets/icon/burger.png", active: false
+      "id": 11,
+      "name": "Big King Xl",
+      "ingredient": "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde",
+      "price": "A Partir de R$ 29.90",
+      "imageUrl": "../../../assets/icon/burger.png"
     },
     {
-      id: 12, name: "Big King Xl", ingredient: "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde", price: "A Partir de R$ 29.90", imageUrl: "../../../assets/icon/burger.png", active: false
+      "id": 12,
+      "name": "Big King Xl",
+      "ingredient": "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde",
+      "price": "A Partir de R$ 29.90",
+      "imageUrl": "../../../assets/icon/burger.png"
     },
     {
-      id: 13, name: "Big King Xl", ingredient: "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde", price: "A Partir de R$ 29.90", imageUrl: "../../../assets/icon/burger.png", active: false
+      "id": 13,
+      "name": "Big King Xl",
+      "ingredient": "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde",
+      "price": "A Partir de R$ 29.90",
+      "imageUrl": "../../../assets/icon/burger.png"
     },
     {
-      id: 14, name: "Big King Xl", ingredient: "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde", price: "A Partir de R$ 29.90", imageUrl: "../../../assets/icon/burger.png", active: false
+      "id": 14,
+      "name": "Big King Xl",
+      "ingredient": "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde",
+      "price": "A Partir de R$ 29.90",
+      "imageUrl": "../../../assets/icon/burger.png"
     },
     {
-      id: 15, name: "Big King Xl", ingredient: "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde", price: "A Partir de R$ 29.90", imageUrl: "../../../assets/icon/burger.png", active: false
-    },
-    {
-      id: 16, name: "Big King Xl", ingredient: "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde", price: "A Partir de R$ 29.90", imageUrl: "../../../assets/icon/burger.png", active: false
-    },
-    {
-      id: 17, name: "Big King Xl", ingredient: "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde", price: "A Partir de R$ 29.90", imageUrl: "../../../assets/icon/burger.png", active: false
-    },
-    {
-      id: 18, name: "Big King Xl", ingredient: "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde", price: "A Partir de R$ 29.90", imageUrl: "../../../assets/icon/burger.png", active: false
-    },
-    {
-      id: 19, name: "Big King Xl", ingredient: "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde", price: "A Partir de R$ 29.90", imageUrl: "../../../assets/icon/burger.png", active: false
-    },
-    {
-      id: 20, name: "Big King Xl", ingredient: "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde", price: "A Partir de R$ 29.90", imageUrl: "../../../assets/icon/burger.png", active: false
-    },
-    {
-      id: 21, name: "Big King Xl", ingredient: "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde", price: "A Partir de R$ 29.90", imageUrl: "../../../assets/icon/burger.png", active: false
-    },
-    {
-      id: 22, name: "Big King Xl", ingredient: "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde", price: "A Partir de R$ 29.90", imageUrl: "../../../assets/icon/burger.png", active: false
-    },
-    {
-      id: 23, name: "Big King Xl", ingredient: "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde", price: "A Partir de R$ 29.90", imageUrl: "../../../assets/icon/burger.png", active: false
-    },
-    {
-      id: 24, name: "Big King Xl", ingredient: "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde", price: "A Partir de R$ 29.90", imageUrl: "../../../assets/icon/burger.png", active: false
-    },
-    {
-      id: 25, name: "Big King Xl", ingredient: "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde", price: "A Partir de R$ 29.90", imageUrl: "../../../assets/icon/burger.png", active: false
+      "id": 15,
+      "name": "Big King Xl",
+      "ingredient": "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde",
+      "price": "A Partir de R$ 29.90",
+      "imageUrl": "../../../assets/icon/burger.png"
     }
+  ]
 }
