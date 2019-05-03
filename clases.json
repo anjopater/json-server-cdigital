@@ -1,109 +1,169 @@
 {
     "clases": [
-        {
+        
+    {
+        "id": 1,
+        "descricao": "Big King XL",
+        "subDescricao": "Pão, hamburguer bovino, picles, tomate, queijo e alface.",
+        "preco": 29.9,
+        "imagem": "http://bk-latam-prod.s3.amazonaws.com/sites/burgerking.com.br/files/WhopperDuplocomqueijo_thumb_0.png ",
+        "tipoProduto": "UNIDADE",
+        "classe": {
             "id": 1,
-            "subGrupoId": 1,
-            "name": "Clase 1",
-            "produto": [
-                {
-                    "id": 1,
-                    "name": "Big King Xl",
-                    "ingredient": "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde",
-                    "price": "A Partir de R$ 29.90",
-                    "imageUrl": "http://bk-latam-prod.s3.amazonaws.com/sites/burgerking.com.br/files/WhopperDuplocomqueijo_thumb_0.png"
-                },
-                {
-                    "id": 2,
-                    "name": "Big King Xl",
-                    "ingredient": "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde",
-                    "price": "A Partir de R$ 29.90",
-                    "imageUrl": "http://bk-latam-prod.s3.amazonaws.com/sites/burgerking.com.br/files/WhopperDuplocomqueijo_thumb_0.png"
-                },
-                {
-                    "id": 3,
-                    "name": "Big King Xl",
-                    "ingredient": "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde",
-                    "price": "A Partir de R$ 29.90",
-                    "imageUrl": "http://bk-latam-prod.s3.amazonaws.com/sites/burgerking.com.br/files/WhopperDuplocomqueijo_thumb_0.png"
-                },
-                {
-                    "id": 4,
-                    "name": "Big King Xl",
-                    "ingredient": "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde",
-                    "price": "A Partir de R$ 29.90",
-                    "imageUrl": "http://bk-latam-prod.s3.amazonaws.com/sites/burgerking.com.br/files/WhopperDuplocomqueijo_thumb_0.png"
-                }
-            ]
-        },
-        {
-            "id": 2,
-            "name": "Clase 2",
-            "subGrupoId": 1,
-            "produto": [
-                {
-                    "id": 1,
-                    "name": "Big King Xll",
-                    "ingredient": "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde",
-                    "price": "A Partir de R$ 29.90",
-                    "imageUrl": "http://bk-latam-prod.s3.amazonaws.com/sites/burgerking.com.br/files/WhopperDuplocomqueijo_thumb_0.png"
-                },
-                {
-                    "id": 2,
-                    "name": "Big King Xll",
-                    "ingredient": "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde",
-                    "price": "A Partir de R$ 29.90",
-                    "imageUrl": "http://bk-latam-prod.s3.amazonaws.com/sites/burgerking.com.br/files/WhopperDuplocomqueijo_thumb_0.png"
-                },
-                {
-                    "id": 3,
-                    "name": "Big King Xll",
-                    "ingredient": "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde",
-                    "price": "A Partir de R$ 29.90",
-                    "imageUrl": "http://bk-latam-prod.s3.amazonaws.com/sites/burgerking.com.br/files/WhopperDuplocomqueijo_thumb_0.png"
-                },
-                {
-                    "id": 4,
-                    "name": "Big King Xll",
-                    "ingredient": "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde",
-                    "price": "A Partir de R$ 29.90",
-                    "imageUrl": "http://bk-latam-prod.s3.amazonaws.com/sites/burgerking.com.br/files/WhopperDuplocomqueijo_thumb_0.png"
-                }
-            ]
-        },
-            {
-      "id": 3,
-      "name": "Clase 3",
-      "subGrupoId": 2,
-      "produto": [
-        {
-          "id": 1,
-          "name": "Big King Xll",
-          "ingredient": "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde",
-          "price": "A Partir de R$ 29.90",
-          "imageUrl": "http://bk-latam-prod.s3.amazonaws.com/sites/burgerking.com.br/files/WhopperDuplocomqueijo_thumb_0.png"
-        },
-        {
-          "id": 2,
-          "name": "Big King Xll",
-          "ingredient": "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde",
-          "price": "A Partir de R$ 29.90",
-          "imageUrl": "http://bk-latam-prod.s3.amazonaws.com/sites/burgerking.com.br/files/WhopperDuplocomqueijo_thumb_0.png"
-        },
-        {
-          "id": 3,
-          "name": "Big King Xll",
-          "ingredient": "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde",
-          "price": "A Partir de R$ 29.90",
-          "imageUrl": "http://bk-latam-prod.s3.amazonaws.com/sites/burgerking.com.br/files/WhopperDuplocomqueijo_thumb_0.png"
-        },
-        {
-          "id": 4,
-          "name": "Big King Xll",
-          "ingredient": "Pao , hamburger bovino , picles , tomate , quejo , alface com mainose caseira verde",
-          "price": "A Partir de R$ 29.90",
-          "imageUrl": "http://bk-latam-prod.s3.amazonaws.com/sites/burgerking.com.br/files/WhopperDuplocomqueijo_thumb_0.png"
+            "descricao": "Hamburguers de carne",
+            "subGrupo": {
+                "id": 1,
+                "descricao": "Hamburguers"
+            }
         }
-      ]
+    },
+    {
+        "id": 999,
+        "descricao": "Ingrediente 999",
+        "subDescricao": "Ingrediente para teste",
+        "preco": 1,
+        "imagem": "",
+        "tipoProduto": "INGREDIENTE",
+        "classe": {
+            "id": 1,
+            "descricao": "Hamburguers de carne",
+            "subGrupo": {
+                "id": 1,
+                "descricao": "Hamburguers"
+            }
+        }
+    },
+    {
+        "id": 2,
+        "descricao": "Big King XXL",
+        "subDescricao": "Pão, hamburguer bovino, picles, tomate, queijo e alface.",
+        "preco": 39.9,
+        "imagem": "http://bk-latam-prod.s3.amazonaws.com/sites/burgerking.com.br/files/WhopperDuplocomqueijo_thumb_0.png ",
+        "tipoProduto": "UNIDADE",
+        "classe": {
+            "id": 1,
+            "descricao": "Hamburguers de carne",
+            "subGrupo": {
+                "id": 1,
+                "descricao": "Hamburguers"
+            }
+        }
+    },
+    {
+        "id": 3,
+        "descricao": "Big Furioso",
+        "subDescricao": "Pão, hamburguer bovino, picles, tomate, queijo, pimenta e alface.",
+        "preco": 49.9,
+        "imagem": "http://bk-latam-prod.s3.amazonaws.com/sites/burgerking.com.br/files/WhopperDuplocomqueijo_thumb_0.png ",
+        "tipoProduto": "UNIDADE",
+        "classe": {
+            "id": 1,
+            "descricao": "Hamburguers de carne",
+            "subGrupo": {
+                "id": 1,
+                "descricao": "Hamburguers"
+            }
+        }
+    },
+    {
+        "id": 4,
+        "descricao": "Queijo",
+        "subDescricao": "Leite...",
+        "preco": 3.9,
+        "imagem": "http://bk-latam-prod.s3.amazonaws.com/sites/burgerking.com.br/files/WhopperDuplocomqueijo_thumb_0.png ",
+        "tipoProduto": "ADICIONAL",
+        "classe": null
+    },
+    {
+        "id": 5,
+        "descricao": "Cheddar",
+        "subDescricao": "Leite...",
+        "preco": 3.9,
+        "imagem": "http://bk-latam-prod.s3.amazonaws.com/sites/burgerking.com.br/files/WhopperDuplocomqueijo_thumb_0.png ",
+        "tipoProduto": "ADICIONAL",
+        "classe": null
+    },
+    {
+        "id": 6,
+        "descricao": "Bacon",
+        "subDescricao": "Gordura suína",
+        "preco": 5.9,
+        "imagem": "http://bk-latam-prod.s3.amazonaws.com/sites/burgerking.com.br/files/WhopperDuplocomqueijo_thumb_0.png ",
+        "tipoProduto": "ADICIONAL",
+        "classe": null
+    },
+    {
+        "id": 7,
+        "descricao": "alface",
+        "subDescricao": "Verduras",
+        "preco": 0.9,
+        "imagem": "http://bk-latam-prod.s3.amazonaws.com/sites/burgerking.com.br/files/WhopperDuplocomqueijo_thumb_0.png ",
+        "tipoProduto": "INGREDIENTE",
+        "classe": null
+    },
+    {
+        "id": 8,
+        "descricao": "Pizza calabresa",
+        "subDescricao": "Calabresa, cebola, mussarela e catupiry.",
+        "preco": 36.9,
+        "imagem": "http://bk-latam-prod.s3.amazonaws.com/sites/burgerking.com.br/files/WhopperDuplocomqueijo_thumb_0.png g",
+        "tipoProduto": "FRACIONADO",
+        "classe": {
+            "id": 5,
+            "descricao": "Pizzas salgadas",
+            "subGrupo": {
+                "id": 7,
+                "descricao": "Pizzas"
+            }
+        }
+    },
+    {
+        "id": 9,
+        "descricao": "Pizza sensação",
+        "subDescricao": "Nutella e morango.",
+        "preco": 39.9,
+        "imagem": "http://bk-latam-prod.s3.amazonaws.com/sites/burgerking.com.br/files/WhopperDuplocomqueijo_thumb_0.png ",
+        "tipoProduto": "FRACIONADO",
+        "classe": {
+            "id": 6,
+            "descricao": "Pizzas doces",
+            "subGrupo": {
+                "id": 7,
+                "descricao": "Pizzas"
+            }
+        }
+    },
+    {
+        "id": 888,
+        "descricao": "Ingrediente 888",
+        "subDescricao": "Ingrediente para teste",
+        "preco": 1,
+        "imagem": "",
+        "tipoProduto": "INGREDIENTE",
+        "classe": {
+            "id": 1,
+            "descricao": "Hamburguers de carne",
+            "subGrupo": {
+                "id": 1,
+                "descricao": "Hamburguers"
+            }
+        }
+    },
+    {
+        "id": 777,
+        "descricao": "Ingrediente 777",
+        "subDescricao": "Ingrediente para teste",
+        "preco": 1,
+        "imagem": "",
+        "tipoProduto": "INGREDIENTE",
+        "classe": {
+            "id": 1,
+            "descricao": "Hamburguers de carne",
+            "subGrupo": {
+                "id": 1,
+                "descricao": "Hamburguers"
+            }
+        }
     }
     ]
 }
