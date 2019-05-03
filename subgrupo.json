@@ -1,54 +1,32 @@
 {
     "subgrupos": [
-        {
-            "id": 1,
-            "name": "Hamburgues 3",
-            "imageUrl": "http://bk-latam-prod.s3.amazonaws.com/sites/burgerking.com.br/files/Levissima_thumb_0.png"
-        },
-        {
-            "id": 2,
-            "name": "Hamburgues 1",
-            "imageUrl": "http://bk-latam-prod.s3.amazonaws.com/sites/burgerking.com.br/files/Levissima_thumb_0.png"
-        },
-        {
-            "id": 3,
-            "name": "Hamburgues 3",
-            "imageUrl": "http://bk-latam-prod.s3.amazonaws.com/sites/burgerking.com.br/files/Levissima_thumb_0.png"
-        },
-        {
-            "id": 4,
-            "name": "Hamburgues 3",
-            "imageUrl": "http://bk-latam-prod.s3.amazonaws.com/sites/burgerking.com.br/files/Levissima_thumb_0.png"
-        },
-        {
-            "id": 5,
-            "name": "Hamburgues 33",
-            "imageUrl": "http://bk-latam-prod.s3.amazonaws.com/sites/burgerking.com.br/files/Levissima_thumb_0.png"
-        },
-        {
-            "id": 6,
-            "name": "Hamburgues 3",
-            "imageUrl": "http://bk-latam-prod.s3.amazonaws.com/sites/burgerking.com.br/files/Levissima_thumb_0.png"
-        },
-        {
-            "id": 7,
-            "name": "Hamburgues 3g",
-            "imageUrl": "http://bk-latam-prod.s3.amazonaws.com/sites/burgerking.com.br/files/Levissima_thumb_0.png"
-        },
-        {
-            "id": 8,
-            "name": "Hamburgues d3",
-            "imageUrl": "http://bk-latam-prod.s3.amazonaws.com/sites/burgerking.com.br/files/Levissima_thumb_0.png"
-        },
-        {
-            "id": 9,
-            "name": "Hamburgues 3",
-            "imageUrl": "http://bk-latam-prod.s3.amazonaws.com/sites/burgerking.com.br/files/Levissima_thumb_0.png"
-        },
-        {
-            "id": 10,
-            "name": "Hamburgues s3",
-            "imageUrl": "http://bk-latam-prod.s3.amazonaws.com/sites/burgerking.com.br/files/Levissima_thumb_0.png"
-        }
+    {
+        "id": 1,
+        "descricao": "Hamburguers"
+    },
+    {
+        "id": 2,
+        "descricao": "Combos"
+    },
+    {
+        "id": 3,
+        "descricao": "Saladas e vegetarianos"
+    },
+    {
+        "id": 4,
+        "descricao": "Bebidas"
+    },
+    {
+        "id": 5,
+        "descricao": "Sobremesas"
+    },
+    {
+        "id": 6,
+        "descricao": "Matéria-prima"
+    },
+    {
+        "id": 7,
+        "descricao": "Pizzas"
+    }
     ]
 }
