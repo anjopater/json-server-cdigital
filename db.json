@@ -195,30 +195,30 @@
         "descricao": "Pizzas"
     }
   ],
-  books:[
-    {
-        "id": "08d71eb0-ffbf-3556-278a-f212cb324ce1",
-        "title": "Cien Anos de Soledad",
-        "genre": "Drama",
-        "releaseYear": 1990,
-        "autor": "Gabriel Gacia Marquez",
-        "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/51egIZUl88L._SX336_BO1,204,203,200_.jpg"
-    },
-    {
-        "id": "08d71eb1-00e7-a90b-3873-438d78edd068",
-        "title": "El Alquimista: Una Fabula Para Seguir Tus Suenos",
-        "genre": "Fabule",
-        "releaseYear": 1995,
-        "autor": "Paulo Cohelo",
-        "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/41LfYrZSQML._SX327_BO1,204,203,200_.jpg"
-    },
-    {
-        "id": "08d71eb1-013b-d420-03c3-7024ecd07f10",
-        "title": "Don Quijote de la Mancha",
-        "genre": "Alternate story",
-        "releaseYear": 1970,
-        "autor": "Miguel de cervantes",
-        "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/51bnuGpPpXL._SX321_BO1,204,203,200_.jpg"
-    }
-]
+  "books":[
+      {
+          "id": "08d71eb0-ffbf-3556-278a-f212cb324ce1",
+          "title": "Cien Anos de Soledad",
+          "genre": "Drama",
+          "releaseYear": 1990,
+          "autor": "Gabriel Gacia Marquez",
+          "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/51egIZUl88L._SX336_BO1,204,203,200_.jpg"
+      },
+      {
+          "id": "08d71eb1-00e7-a90b-3873-438d78edd068",
+          "title": "El Alquimista: Una Fabula Para Seguir Tus Suenos",
+          "genre": "Fabule",
+          "releaseYear": 1995,
+          "autor": "Paulo Cohelo",
+          "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/41LfYrZSQML._SX327_BO1,204,203,200_.jpg"
+      },
+      {
+          "id": "08d71eb1-013b-d420-03c3-7024ecd07f10",
+          "title": "Don Quijote de la Mancha",
+          "genre": "Alternate story",
+          "releaseYear": 1970,
+          "autor": "Miguel de cervantes",
+          "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/51bnuGpPpXL._SX321_BO1,204,203,200_.jpg"
+      }
+  ]
 }
